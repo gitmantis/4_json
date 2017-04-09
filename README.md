@@ -11,7 +11,8 @@ $ python pprint_json.py <path to file>
 
 # TODO add output example
 ```
-python pprint_json.py data.json 
+$python pprint_json.py data.json 
+
 [{'Cells': {'Address': 'улица Академика Павлова, дом 10',
             'AdmArea': 'Западный административный округ',
             'ClarificationOfWorkingHours': None,
