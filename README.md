@@ -10,7 +10,7 @@ https://data.mos.ru/opendata/7710881420-magaziny-alkogolnye-napitki
 $ python pprint_json.py <path to file>
 
 # TODO add output example
-`
+```
 python pprint_json.py data.json 
 [{'Cells': {'Address': 'улица Академика Павлова, дом 10',
             'AdmArea': 'Западный административный округ',
@@ -81,7 +81,7 @@ python pprint_json.py data.json
             'global_id': 14937274},
   'Id': 'a16c8154-09d8-4207-8e13-cb8db654e95c',
   'Number': 3}]
-`
+```
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
